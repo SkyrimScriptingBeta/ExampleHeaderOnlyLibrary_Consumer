@@ -1,0 +1,2 @@
+# ExampleHeaderOnlyLibrary_Consumer
+Example project which uses ExampleHeaderOnlyLibrary via Packages registry
