@@ -1,0 +1,5 @@
+{
+    "name": "example",
+    "version": "2024-11-26-50f996b",
+    "dependencies": ["example-header-only-library"]
+}
